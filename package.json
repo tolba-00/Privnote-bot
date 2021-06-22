@@ -1,0 +1,21 @@
+{
+  "name": "privnote-bot",
+  "version": "1.0.0",
+  "description": "Bot that generates privnotes using privnote's api!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tolba#0612 on discord!",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.1",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "privnote": "^1.1.1"
+  }
+}

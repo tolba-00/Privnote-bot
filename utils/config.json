@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "colors": {
+    "default": "BLUE",
+    "error": "FF4500"
+  }
+}
