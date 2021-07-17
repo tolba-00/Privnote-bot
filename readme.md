@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/tolba-00/privnote-bot/badge)](https://www.codefactor.io/repository/github/tolba-00/privnote-bot)
+
 # 🔒 Welcome to Privnote bot!
 ## The best Privnote intergrated Discord Bot.
 
